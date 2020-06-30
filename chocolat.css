@@ -1,0 +1,17 @@
+.nav-link {
+    color: white;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.fond {
+    color: white;
+    padding-left: 200px;
+}
+
+.jumbotron {
+    background: center center / cover no-repeat url("https://images.unsplash.com/photo-1541779972238-2c60cd11ffc5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
+    height: 700px;
+}

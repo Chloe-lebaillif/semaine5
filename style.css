@@ -1,0 +1,17 @@
+/*.nav-link {
+    color: white;
+}
+
+.col-4 {
+    background-color: greenyellow;
+    border: 2px solid black;
+}
+
+.col-8 {
+    background-color: skyblue;
+    border: 2px solid black;
+}*/
+
+.row, .col-4, .col-8, .col-6, .col-3, .col-5{
+    border: 1px solid black;
+}

@@ -1,0 +1,17 @@
+body {
+    background-color: #EEEEEE;
+}
+
+/*Menu*/
+
+/*Image et texte*/
+.jumbotron {
+    background: center / cover url("https://images.unsplash.com/photo-1530469641172-8ac15d0a7d6a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1294&q=80");
+    height: 400px;
+    border-radius: 0;
+}
+
+/*Les 3 colonnes*/
+img {
+    height: 560px;
+}
