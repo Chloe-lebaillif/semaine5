@@ -1,0 +1,39 @@
+/*.col-6, .col-4, .col-2, .col-3{
+    border: 1px solid black;
+}
+
+.col-12 {
+    border: 2px solid green;
+}
+
+.col-3 {
+    height: 150px;
+}
+
+.col-2 {
+    height: 80px;
+}*/
+
+/*Correction*/
+.window {
+    height: 60px;
+    width: 20%;
+    background-color: aqua;
+}
+
+.door {
+    height: 80px;
+    width: 20%;
+    background-color: brown;
+}
+
+.building {
+    border: 2px solid;
+    background-color: lightgrey;
+    border-bottom: none;
+}
+
+.ground {
+    background-color: green;
+    height: 60px;
+}
