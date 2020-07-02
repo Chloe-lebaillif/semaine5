@@ -1,0 +1,12 @@
+body {
+    background-color: lightgray;
+}
+
+.col-12, .col-3 {
+    background-color: white;
+}
+
+img {
+    height: 100px;
+    width: auto;
+}
